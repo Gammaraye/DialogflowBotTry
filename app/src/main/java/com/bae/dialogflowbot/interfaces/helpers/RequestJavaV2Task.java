@@ -1,4 +1,4 @@
-package com.bae.dialogflowbot.helpers;
+package com.bae.dialogflowbot.interfaces.helpers;
 
 import android.os.AsyncTask;
 import android.util.Log;
